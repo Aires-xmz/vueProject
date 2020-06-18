@@ -23,5 +23,3 @@ yarn build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
-简单的使用了一下vue,vue-cli,还有vant
