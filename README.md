@@ -1,4 +1,10 @@
 # sugar
+vue
+vue-cli
+vuex
+vue-router
+vant组件库
+vue-waterfall-easy
 
 ## Project setup
 ```

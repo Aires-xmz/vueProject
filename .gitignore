@@ -1,6 +1,7 @@
 .DS_Store
 node_modules
 /dist
+dist
 
 # local env files
 .env.local
@@ -19,3 +20,7 @@ yarn-error.log*
 *.njsproj
 *.sln
 *.sw?
+
+# 解决github发送邮件 安全漏洞 问题
+package-lock.json
+yarn.lock
